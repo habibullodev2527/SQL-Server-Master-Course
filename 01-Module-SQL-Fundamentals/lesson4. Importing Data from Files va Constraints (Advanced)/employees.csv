@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Department,Position,Salary,Age,HireDate
+1,Aziz,Abdullayev,IT,Software Engineer,4500000,28,2023-01-15
+2,Valentina,Petrova,HR,HR Manager,3200000,34,2022-06-01
+3,Jahongir,Rahimov,Marketing,Marketing Specialist,3800000,29,2023-03-10
+4,Nigora,Karimova,Finance,Accountant,5000000,31,2021-11-20
+5,Sardor,Alimov,IT,Data Analyst,4200000,26,2024-02-01
+6,Elena,Smirnova,HR,Recruiter,3100000,37,2020-09-05
+7,Farhod,Usmonov,IT,Senior Developer,4700000,30,2022-08-12
+8,Shakhnoza,Toirova,Marketing,Content Manager,3500000,25,2023-12-01
+9,Bobur,Hasanov,Finance,Financial Analyst,4800000,33,2022-04-18
+10,Maria,Ivanova,IT,DevOps Engineer,3900000,27,2023-07-22
+11,Rustam,Bekmurodov,IT,Software Engineer,4600000,29,2023-05-10
+12,Dilnoza,Ahmedova,HR,HR Assistant,2800000,24,2024-01-05
+13,Alisher,Karimov,Marketing,SEO Specialist,3700000,32,2022-10-15
+14,Svetlana,Popova,Finance,Chief Accountant,5500000,38,2021-03-20
+15,Jasur,Toirov,IT,Frontend Developer,4100000,25,2023-09-01
+16,Anvar,Saidov,Marketing,Marketing Manager,5200000,35,2022-07-12
+17,Olga,Kuznetsova,HR,HR Specialist,3300000,31,2023-02-28
+18,Shuhrat,Nasimov,IT,Backend Developer,4800000,28,2024-03-15
+19,Zarina,Valieva,Finance,Auditor,4300000,30,2022-11-10
+20,Timur,Abdullaev,IT,Data Scientist,6000000,34,2021-08-05
+21,Gulnora,Rakhimova,Marketing,Designer,3400000,26,2023-06-20
+22,Igor,Petrov,HR,Training Manager,3600000,40,2020-12-01
+23,Kamila,Sharipova,IT,QA Engineer,3900000,27,2023-04-18
+24,Mirzo,Ergashev,Finance,Tax Specialist,4700000,32,2022-05-25
+25,Nodira,Abdullaeva,Marketing,SMM Manager,3200000,24,2024-02-10
+26,Artur,Smirnov,IT,System Administrator,4400000,33,2021-10-30
+27,Sevara,Toirova,HR,HR Director,5800000,36,2020-05-15
+28,Bakhrom,Usmanov,IT,Mobile Developer,5100000,29,2023-08-22
+29,Ekaterina,Ivanova,Finance,Controller,4900000,31,2022-09-12
+30,Doniyor,Hasanov,Marketing,Brand Manager,4500000,28,2023-11-05
+31,Lobar,Karimova,IT,Business Analyst,4700000,30,2024-01-20
+32,Sergey,Volkov,HR,Compensation Specialist,3500000,39,2021-06-18
+33,Maftuna,Rahimova,Marketing,Event Coordinator,3100000,25,2023-07-30
+34,Ulugbek,Alimov,IT,Security Engineer,5300000,32,2022-03-08
+35,Anna,Sokolova,Finance,Payroll Specialist,3800000,29,2023-10-12
+36,Farrukh,Bekmurodov,IT,Full Stack Developer,5500000,31,2021-12-25
+37,Diana,Petrova,HR,Office Manager,2900000,27,2024-04-01
+38,Jaloliddin,Usmonov,Marketing,PR Specialist,3600000,28,2022-12-15
+39,Nilufar,Ahmedova,IT,UI/UX Designer,4200000,26,2023-05-28
+40,Victor,Lebedev,Finance,Senior Accountant,5100000,35,2021-09-10
+41,Shirin,Valieva,Marketing,Copywriter,3000000,24,2024-02-25
+42,Azamat,Toirov,IT,Database Administrator,4900000,33,2022-08-30
+43,Evgeniya,Smirnova,HR,Recruitment Lead,4000000,34,2023-01-12
+44,Ravshan,Hasanov,Finance,Financial Controller,5700000,37,2020-11-20
+45,Madina,Karimova,IT,DevOps Engineer,4600000,28,2023-09-18
+46,Ilyas,Abdullaev,Marketing,Analyst,3800000,30,2022-06-05
+47,Polina,Kuznetsova,HR,HR Business Partner,4300000,32,2021-07-22
+48,Said,Ergashev,IT,Software Architect,6500000,36,2020-04-10
+49,Victoria,Popova,Finance,Tax Manager,5200000,31,2023-03-25
+50,Behruz,Rahimov,Marketing,Director,6800000,38,2021-05-15
